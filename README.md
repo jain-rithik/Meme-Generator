@@ -9,7 +9,6 @@ Welcome to the Meme Generator project! This simple web application allows you to
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Demo
 
