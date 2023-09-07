@@ -13,7 +13,7 @@ Welcome to the Meme Generator project! This simple web application allows you to
 
 ## Demo
 
-You can try out the Meme Generator live [here](#insert-live-demo-link-here).
+You can try out the Meme Generator live [here](#https://jain-rithik.github.io/Meme-Generator/).
 
 You can see a screenshot of the project below:
 
